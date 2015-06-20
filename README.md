@@ -42,6 +42,7 @@ Feel free to contribute by sending PR!
 * [Data-Oriented Design and C++](https://www.youtube.com/watch?v=rX0ItVEVjHc) - Mike Acton (Insomniac Games)
 * [Efficiency with Algorithms, Performance with Data Structures](https://www.youtube.com/watch?v=fHNmRkzxHWs&list=WL&index=1) - Chandler Carruth
 * [Data-Oriented Design](https://www.youtube.com/watch?v=16ZF9XqkfRY) - Sean Middleditch
+* [Native Code Performance and Memory: The Elephant in the CPU](https://t.co/gm1l6fl1Np) - Eric Brumer
 
 ## Other
 
