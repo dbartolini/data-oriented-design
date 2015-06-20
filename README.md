@@ -36,6 +36,12 @@ Feel free to contribute by sending PR!
 * [The Latency Elephant](http://seven-degrees-of-freedom.blogspot.it/2009/10/latency-elephant.html) - Tony Albrecht
 * [OOP != classes, but may == DOD](https://roathe.wordpress.com/2010/03/22/oop-classes-but-may-dod/) - roathe.com
 * [Data Locality](http://gameprogrammingpatterns.com/data-locality.html) - http://gameprogrammingpatterns.com
+* [Adventures in data-oriented design – Part 1: Mesh data](https://molecularmusings.wordpress.com/2011/11/03/adventures-in-data-oriented-design-part-1-mesh-data-3/) - Stefan Reinalter
+* [Adventures in data-oriented design – Part 2: Hierarchical data](https://molecularmusings.wordpress.com/2013/02/22/adventures-in-data-oriented-design-part-2-hierarchical-data/) - Stefan Reinalter
+* [Adventures in data-oriented design – Part 3a: Ownership](https://molecularmusings.wordpress.com/2013/05/02/adventures-in-data-oriented-design-part-3a-ownership/) - Stefan Reinalter
+* [Adventures in data-oriented design – Part 3b: Internal References](https://molecularmusings.wordpress.com/2013/05/17/adventures-in-data-oriented-design-part-3b-internal-references/) - Stefan Reinalter
+* [Adventures in data-oriented design – Part 3c: External References](https://molecularmusings.wordpress.com/2013/07/24/adventures-in-data-oriented-design-part-3c-external-references/) - Stefan Reinalter
+* [Adventures in data-oriented design – Part 4: Skinning it to 11](https://molecularmusings.wordpress.com/2013/08/22/adventures-in-data-oriented-design-part-4-skinning-it-to-11/) - Stefan Reinalter
 
 ## Videos
 
