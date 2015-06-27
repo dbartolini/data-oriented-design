@@ -59,3 +59,4 @@ Feel free to contribute by sending PR!
 * [Mike Acton's review of OgreNode.cpp, revealing some common OOP game engine development pitfalls](http://www.bounceapp.com/116414)
 * [Data Oriented Design](https://plus.google.com/u/0/+Dataorienteddesign/posts) - plus.google.com
 * [What Every Programmer Should Know About Memory](http://www.akkadia.org/drepper/cpumemory.pdf) - Ulrich Drepper
+* [Data Locality](http://gameprogrammingpatterns.com/data-locality.html) - Robert Nystrom
