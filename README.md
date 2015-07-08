@@ -45,6 +45,7 @@ Feel free to contribute by sending PR!
 * [Adventures in data-oriented design – Part 3b: Internal References](https://molecularmusings.wordpress.com/2013/05/17/adventures-in-data-oriented-design-part-3b-internal-references/) - Stefan Reinalter
 * [Adventures in data-oriented design – Part 3c: External References](https://molecularmusings.wordpress.com/2013/07/24/adventures-in-data-oriented-design-part-3c-external-references/) - Stefan Reinalter
 * [Adventures in data-oriented design – Part 4: Skinning it to 11](https://molecularmusings.wordpress.com/2013/08/22/adventures-in-data-oriented-design-part-4-skinning-it-to-11/) - Stefan Reinalter
+* [Data-Oriented Hash Table](http://www.reedbeta.com/blog/2015/01/12/data-oriented-hash-table/) - Nathan Reed
 
 ## Videos
 
