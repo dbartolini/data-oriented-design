@@ -53,6 +53,7 @@ Feel free to contribute by sending PR!
 * [Efficiency with Algorithms, Performance with Data Structures](https://www.youtube.com/watch?v=fHNmRkzxHWs&list=WL&index=1) - Chandler Carruth
 * [Data-Oriented Design](https://www.youtube.com/watch?v=16ZF9XqkfRY) - Sean Middleditch
 * [Native Code Performance and Memory: The Elephant in the CPU](https://channel9.msdn.com/Events/Build/2013/4-329) - Eric Brumer
+* [Performance Optimization, SIMD and Cache](https://www.youtube.com/watch?v=Nsf2_Au6KxU) - Sergiy Migdalskiy
 * [CPU Caches and Why You care](https://vimeo.com/97337258) - Scott Meyers
 
 ## Other
