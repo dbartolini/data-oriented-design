@@ -63,3 +63,4 @@ Feel free to contribute by sending PR!
 * [Data Oriented Design](https://plus.google.com/u/0/+Dataorienteddesign/posts) - plus.google.com
 * [What Every Programmer Should Know About Memory](http://www.akkadia.org/drepper/cpumemory.pdf) - Ulrich Drepper
 * [Data Locality](http://gameprogrammingpatterns.com/data-locality.html) - Robert Nystrom
+* [Niklas Frykholm github blog](https://github.com/niklasfrykholm/blog)
