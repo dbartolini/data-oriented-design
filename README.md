@@ -46,6 +46,7 @@ Feel free to contribute by sending PR!
 * [Adventures in data-oriented design – Part 3c: External References](https://molecularmusings.wordpress.com/2013/07/24/adventures-in-data-oriented-design-part-3c-external-references/) - Stefan Reinalter
 * [Adventures in data-oriented design – Part 4: Skinning it to 11](https://molecularmusings.wordpress.com/2013/08/22/adventures-in-data-oriented-design-part-4-skinning-it-to-11/) - Stefan Reinalter
 * [Data-Oriented Hash Table](http://www.reedbeta.com/blog/2015/01/12/data-oriented-hash-table/) - Nathan Reed
+* [Niklas Frykholm github blog](https://github.com/niklasfrykholm/blog)
 
 ## Videos
 
@@ -63,4 +64,3 @@ Feel free to contribute by sending PR!
 * [Data Oriented Design](https://plus.google.com/u/0/+Dataorienteddesign/posts) - plus.google.com
 * [What Every Programmer Should Know About Memory](http://www.akkadia.org/drepper/cpumemory.pdf) - Ulrich Drepper
 * [Data Locality](http://gameprogrammingpatterns.com/data-locality.html) - Robert Nystrom
-* [Niklas Frykholm github blog](https://github.com/niklasfrykholm/blog)
