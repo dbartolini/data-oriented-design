@@ -64,3 +64,4 @@ Feel free to contribute by sending PR!
 * [Data Oriented Design](https://plus.google.com/u/0/+Dataorienteddesign/posts) - plus.google.com
 * [What Every Programmer Should Know About Memory](http://www.akkadia.org/drepper/cpumemory.pdf) - Ulrich Drepper
 * [Data Locality](http://gameprogrammingpatterns.com/data-locality.html) - Robert Nystrom
+* [Data alignment: Straighten up and fly right](http://www.ibm.com/developerworks/library/pa-dalign/) - Jonathan Rentzsch 
