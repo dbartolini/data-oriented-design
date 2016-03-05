@@ -56,6 +56,7 @@ Feel free to contribute by sending PR!
 * [Native Code Performance and Memory: The Elephant in the CPU](https://channel9.msdn.com/Events/Build/2013/4-329) - Eric Brumer
 * [Performance Optimization, SIMD and Cache](https://www.youtube.com/watch?v=Nsf2_Au6KxU) - Sergiy Migdalskiy
 * [CPU Caches and Why You care](https://vimeo.com/97337258) - Scott Meyers
+* [Object-Oriented Programming is Bad](https://www.youtube.com/watch?v=QM1iUe6IofM) - Brian Will
 
 ## Other
 
