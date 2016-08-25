@@ -41,6 +41,7 @@ Feel free to contribute by sending PR!
 * [Data-Oriented Hash Table](http://www.reedbeta.com/blog/2015/01/12/data-oriented-hash-table/) - Nathan Reed
 * [Is Data-Oriented Design a Paradigm?](http://solid-angle.blogspot.it/2010/12/is-data-oriented-design-paradigm.html) - Steve Anichini
 * [Maximizing code performance by thinking data first - Part 1](https://fuzzyreflection.com/2016/07/14/maximizing-code-performance-by-thinking-data-first-part-1/) - Nicolas Lopez
+* [Maximizing code performance by thinking data first - Part 2](https://fuzzyreflection.com/2016/08/15/maximizing-code-performance-by-thinking-data-first-part-2/) - Nicolas Lopez
 * [Musings on Data-Oriented Design](http://solid-angle.blogspot.it/2010/02/musings-on-data-oriented-design.html) - Steve Anichini
 * [Niklas Frykholm github blog](https://github.com/niklasfrykholm/blog)
 * [OOP != classes, but may == DOD](https://roathe.wordpress.com/2010/03/22/oop-classes-but-may-dod/) - roathe.com
