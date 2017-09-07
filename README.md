@@ -15,7 +15,7 @@ Feel free to contribute by sending PR!
 
 * [A Step Towards Data Orientation](http://www.slideshare.net/DICEStudio/a-step-towards-data-orientation) - Johan Torp
 * [Introduction To Data Oriented Design](http://www.slideshare.net/DICEStudio/introduction-to-data-oriented-design) - DICE
-* [Memory Optimization](http://www.research.scea.com/research/pdfs/GDC2003_Memory_Optimization_18Mar03.pdf) - Christer Ericson
+* [Memory Optimization](https://www.slideshare.net/backkom/memory-optimization-212630?qid=900a4da7-e1dd-447f-bdbe-389ad83f3a0c) - Christer Ericson
 * [Practical Examples In Data Oriented Design](https://docs.google.com/presentation/d/17Bzle0w6jz-1ndabrvC5MXUIQ5jme0M8xBF71oz-0Js/present?slide=id.i0) - Niklas Frykholm
 * [Three Big Lies](http://cellperformance.beyond3d.com/articles/2008/03/three-big-lies.html) - Mike Acton
 * [Typical C++ Bullshit](http://macton.smugmug.com/gallery/8936708_T6zQX#!i=593426709&k=ZX4pZ) - Mike Acton
