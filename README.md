@@ -60,6 +60,7 @@ Feel free to contribute by sending PR!
 * [Native Code Performance and Memory: The Elephant in the CPU](https://channel9.msdn.com/Events/Build/2013/4-329) - Eric Brumer
 * [Object-Oriented Programming is Bad](https://www.youtube.com/watch?v=QM1iUe6IofM) - Brian Will
 * [Performance Optimization, SIMD and Cache](https://www.youtube.com/watch?v=Nsf2_Au6KxU) - Sergiy Migdalskiy
+* [Data-Oriented Demo: SOA, composition](https://www.youtube.com/watch?v=ZHqFrNyLlpA) - Jonathan Blow
 
 ## Other
 
