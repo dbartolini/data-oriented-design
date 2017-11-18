@@ -54,13 +54,13 @@ Feel free to contribute by sending PR!
 ## Videos
 
 * [CPU Caches and Why You care](https://vimeo.com/97337258) - Scott Meyers
+* [Data-Oriented Demo: SOA, composition](https://www.youtube.com/watch?v=ZHqFrNyLlpA) - Jonathan Blow
 * [Data-Oriented Design and C++](https://www.youtube.com/watch?v=rX0ItVEVjHc) - Mike Acton
 * [Data-Oriented Design](https://www.youtube.com/watch?v=16ZF9XqkfRY) - Sean Middleditch
 * [Efficiency with Algorithms, Performance with Data Structures](https://www.youtube.com/watch?v=fHNmRkzxHWs&list=WL&index=1) - Chandler Carruth
 * [Native Code Performance and Memory: The Elephant in the CPU](https://channel9.msdn.com/Events/Build/2013/4-329) - Eric Brumer
 * [Object-Oriented Programming is Bad](https://www.youtube.com/watch?v=QM1iUe6IofM) - Brian Will
 * [Performance Optimization, SIMD and Cache](https://www.youtube.com/watch?v=Nsf2_Au6KxU) - Sergiy Migdalskiy
-* [Data-Oriented Demo: SOA, composition](https://www.youtube.com/watch?v=ZHqFrNyLlpA) - Jonathan Blow
 
 ## Other
 
@@ -74,6 +74,6 @@ Feel free to contribute by sending PR!
 
 ## Code Examples
 
-* [crown](https://github.com/dbartolini/crown)
 * [bgfx](https://github.com/bkaradzic/bgfx)
+* [crown](https://github.com/dbartolini/crown)
 * [dear imgui](https://github.com/ocornut/imgui)
