@@ -46,6 +46,7 @@ Feel free to contribute by sending PR!
 * [Musings on Data-Oriented Design](http://solid-angle.blogspot.it/2010/02/musings-on-data-oriented-design.html) - Steve Anichini
 * [Niklas Frykholm github blog](https://github.com/niklasfrykholm/blog)
 * [OOP != classes, but may == DOD](https://roathe.wordpress.com/2010/03/22/oop-classes-but-may-dod/) - roathe.com
+* [Pitfalls of Object Oriented Programming - Revisited](https://docs.google.com/presentation/d/1ST3mZgxmxqlpCFkdDhtgw116MQdCr2Fax2yjd8Az6zM/edit#slide=id.p) - Tony Albrecht
 * [Pitfalls of Object Oriented Programming](http://www.slideshare.net/EmanWebDev/pitfalls-of-object-oriented-programminggcap09) - Tony Albrecht
 * [The Latency Elephant](http://seven-degrees-of-freedom.blogspot.it/2009/10/latency-elephant.html) - Tony Albrecht
 * [Visual Scripting the Data-Oriented Way](http://bitsquid.blogspot.it/2010/09/visual-scripting-data-oriented-way.html) - Niklas Frykholm
