@@ -36,7 +36,7 @@ Feel free to contribute by sending PR!
 * [Building a Data-Oriented Entity System (Part 3: The Transform Component)](http://bitsquid.blogspot.it/2014/10/building-data-oriented-entity-system.html) - Niklas Frykholm
 * [Building a Data-Oriented Entity System (Part 4: Entity Resources)](http://bitsquid.blogspot.it/2014/10/building-data-oriented-entity-system_10.html) - Niklas Frykholm
 * [Data Locality](http://gameprogrammingpatterns.com/data-locality.html) - http://gameprogrammingpatterns.com
-* [Data Oriented Luddites](http://home.comcast.net/~tom_forsyth/blog.wiki.html#[[Data%20Oriented%20Luddites]]) - Tom Forsyth
+* [Data Oriented Luddites](https://tomforsyth1000.github.io/blog.wiki.html#[[Data%20Oriented%20Luddites]]) - Tom Forsyth
 * [Data-Oriented Design (Or Why You Might Be Shooting Yourself in The Foot With OOP)](http://gamesfromwithin.com/data-oriented-design) - Noel Llopis
 * [Data-Oriented Design Now And In The Future](http://gamesfromwithin.com/data-oriented-design-now-and-in-the-future) - Noel Llopis
 * [Data-Oriented Hash Table](http://www.reedbeta.com/blog/2015/01/12/data-oriented-hash-table/) - Nathan Reed
