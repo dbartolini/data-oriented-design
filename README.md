@@ -58,6 +58,8 @@ Feel free to contribute by sending PR!
 * [Data-Oriented Demo: SOA, composition](https://www.youtube.com/watch?v=ZHqFrNyLlpA) - Jonathan Blow
 * [Data-Oriented Design and C++](https://www.youtube.com/watch?v=rX0ItVEVjHc) - Mike Acton
 * [Data-Oriented Design](https://www.youtube.com/watch?v=16ZF9XqkfRY) - Sean Middleditch
+* [Democratizing Data-Oriented Design: A Data-Oriented Approach to Using Component Systems](https://www.twitch.tv/videos/242024723?t=05m34s) - Mike Acton
+* [Democratizing Data-Oriented Design: From C# to Machine Code](https://www.twitch.tv/videos/242024723?t=01h34m26s) - Andreas Fredriksson
 * [Efficiency with Algorithms, Performance with Data Structures](https://www.youtube.com/watch?v=fHNmRkzxHWs&list=WL&index=1) - Chandler Carruth
 * [Native Code Performance and Memory: The Elephant in the CPU](https://channel9.msdn.com/Events/Build/2013/4-329) - Eric Brumer
 * [Object-Oriented Programming is Bad](https://www.youtube.com/watch?v=QM1iUe6IofM) - Brian Will
