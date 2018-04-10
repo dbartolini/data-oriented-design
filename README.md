@@ -74,6 +74,7 @@ Feel free to contribute by sending PR!
 * [On why DoD isn't a modelling approach at all](https://sites.google.com/site/macton/home/onwhydodisntamodellingapproachatall) - Christer Ericson
 * [What Every Programmer Should Know About Memory](http://www.akkadia.org/drepper/cpumemory.pdf) - Ulrich Drepper
 * [What Is Data Oriented Design](http://stackoverflow.com/questions/1641580/what-is-data-oriented-design) - stackoverflow.com
+* [Data Oriented Design Book](http://www.dataorienteddesign.com/dodmain/dodmain.html) - Richard Fabian
 
 ## Code Examples
 
