@@ -19,6 +19,7 @@ Feel free to contribute by sending PR!
 * [Practical Examples In Data Oriented Design](https://docs.google.com/presentation/d/17Bzle0w6jz-1ndabrvC5MXUIQ5jme0M8xBF71oz-0Js/present?slide=id.i0) - Niklas Frykholm
 * [Three Big Lies](http://cellperformance.beyond3d.com/articles/2008/03/three-big-lies.html) - Mike Acton
 * [Typical C++ Bullshit](http://macton.smugmug.com/gallery/8936708_T6zQX#!i=593426709&k=ZX4pZ) - Mike Acton
+* [Data-Oriented Design and C++ (2014)](https://www.slideshare.net/cellperformance/data-oriented-design-and-c) - Mike Acton
 
 ## Blog Posts
 
