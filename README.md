@@ -59,8 +59,8 @@ Feel free to contribute by sending PR!
 * [Data-Oriented Demo: SOA, composition (2015)](https://www.youtube.com/watch?v=ZHqFrNyLlpA) - Jonathan Blow
 * [Data-Oriented Design and C++ (cppcon 2014)](https://www.youtube.com/watch?v=rX0ItVEVjHc) - Mike Acton
 * [Data-Oriented Design (2013)](https://www.youtube.com/watch?v=16ZF9XqkfRY) - Sean Middleditch
-* [Democratizing Data-Oriented Design: A Data-Oriented Approach to Using Component Systems (?)](https://www.twitch.tv/videos/242024723?t=05m34s) - Mike Acton
-* [Democratizing Data-Oriented Design: From C# to Machine Code (?)](https://www.twitch.tv/videos/242024723?t=01h34m26s) - Andreas Fredriksson
+* [Democratizing Data-Oriented Design: A Data-Oriented Approach to Using Component Systems (2018)](https://www.youtube.com/watch?v=p65Yt20pw0g) - Mike Acton
+* [Democratizing Data-Oriented Design: From C# to Machine Code (2018)](https://www.youtube.com/watch?v=NF6kcNS6U80) - Andreas Fredriksson
 * [Efficiency with Algorithms, Performance with Data Structures (2014, cppcon)](https://www.youtube.com/watch?v=fHNmRkzxHWs&list=WL&index=1) - Chandler Carruth
 * [Native Code Performance and Memory: The Elephant in the CPU (2013)](https://channel9.msdn.com/Events/Build/2013/4-329) - Eric Brumer
 * [Object-Oriented Programming is Bad (2016)](https://www.youtube.com/watch?v=QM1iUe6IofM) - Brian Will
