@@ -20,6 +20,8 @@ Feel free to contribute by sending PR!
 * [Three Big Lies (2008)](http://cellperformance.beyond3d.com/articles/2008/03/three-big-lies.html) - Mike Acton
 * [Typical C++ Bullshit (2008)](http://macton.smugmug.com/gallery/8936708_T6zQX#!i=593426709&k=ZX4pZ) - Mike Acton
 * [Data-Oriented Design and C++ (2014)](https://www.slideshare.net/cellperformance/data-oriented-design-and-c) - Mike Acton
+* [Entity Component Systems &
+Data Oriented Design (2018)](http://aras-p.info/texts/files/2018Academy%20-%20ECS-DoD.pdf) - Aras Pranckevičius
 
 ## Blog Posts
 
