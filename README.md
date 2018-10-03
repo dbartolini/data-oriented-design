@@ -77,7 +77,7 @@ Data Oriented Design (2018)](http://aras-p.info/texts/files/2018Academy%20-%20EC
 * [On why DoD isn't a modelling approach at all (2016)](https://sites.google.com/site/macton/home/onwhydodisntamodellingapproachatall) - Christer Ericson
 * [What Every Programmer Should Know About Memory (2007)](http://www.akkadia.org/drepper/cpumemory.pdf) - Ulrich Drepper
 * [What Is Data Oriented Design (2009)](http://stackoverflow.com/questions/1641580/what-is-data-oriented-design) - stackoverflow.com
-* [Data Oriented Design Book (2013)](http://www.dataorienteddesign.com/dodmain/dodmain.html) - Richard Fabian
+* [Data Oriented Design Book (2018)](http://www.dataorienteddesign.com/dodbook/dodmain.html) - Richard Fabian
 * [Cache-Line Aware Data Structures (2018)](https://accu.org/index.php/journals/2535) - accu.org
 
 ## Code Examples
