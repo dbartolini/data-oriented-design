@@ -67,6 +67,7 @@ Data Oriented Design (2018)](http://aras-p.info/texts/files/2018Academy%20-%20EC
 * [Native Code Performance and Memory: The Elephant in the CPU (2013)](https://channel9.msdn.com/Events/Build/2013/4-329) - Eric Brumer
 * [Object-Oriented Programming is Bad (2016)](https://www.youtube.com/watch?v=QM1iUe6IofM) - Brian Will
 * [Performance Optimization, SIMD and Cache (2015)](https://www.youtube.com/watch?v=Nsf2_Au6KxU) - Sergiy Migdalskiy
+* [OOP Is Dead, Long Live Data-oriented Design (cppcon 2018)](https://www.youtube.com/watch?v=yy8jQgmhbAU) - Stoyan Nikolov
 
 ## Other
 
