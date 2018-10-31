@@ -54,6 +54,8 @@ Data Oriented Design (2018)](http://aras-p.info/texts/files/2018Academy%20-%20EC
 * [The Latency Elephant (2009)](http://seven-degrees-of-freedom.blogspot.it/2009/10/latency-elephant.html) - Tony Albrecht
 * [Visual Scripting the Data-Oriented Way (2010)](http://bitsquid.blogspot.it/2010/09/visual-scripting-data-oriented-way.html) - Niklas Frykholm
 * [What is Data-Oriented Game Engine Design? (2014)](http://gamedevelopment.tutsplus.com/articles/what-is-data-oriented-game-engine-design--cms-21052) - David Davidović
+* [Comments on Data Oriented Design – Part I (2015)](https://gautiertalkstechnology.wordpress.com/2015/02/21/comments-on-data-oriented-design-part-i) - Michael Gautier
+* [Comments on Data Oriented Design – Part II (2015)](https://gautiertalkstechnology.wordpress.com/2015/02/22/comments-on-data-oriented-design-part-ii) - Michael Gautier
 
 ## Videos
 
