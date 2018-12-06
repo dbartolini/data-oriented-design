@@ -70,6 +70,7 @@ Data Oriented Design (2018)](http://aras-p.info/texts/files/2018Academy%20-%20EC
 * [Object-Oriented Programming is Bad (2016)](https://www.youtube.com/watch?v=QM1iUe6IofM) - Brian Will
 * [Performance Optimization, SIMD and Cache (2015)](https://www.youtube.com/watch?v=Nsf2_Au6KxU) - Sergiy Migdalskiy
 * [OOP Is Dead, Long Live Data-oriented Design (cppcon 2018)](https://www.youtube.com/watch?v=yy8jQgmhbAU) - Stoyan Nikolov
+* [Using Rust For Game Development (RustConf 2018)](https://www.youtube.com/watch?v=aKLntZcp27M) - Catherine West
 
 ## Other
 
