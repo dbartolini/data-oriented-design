@@ -66,6 +66,7 @@ Data Oriented Design (2018)](http://aras-p.info/texts/files/2018Academy%20-%20EC
 * [Democratizing Data-Oriented Design: A Data-Oriented Approach to Using Component Systems (2018)](https://www.youtube.com/watch?v=p65Yt20pw0g) - Mike Acton
 * [Democratizing Data-Oriented Design: From C# to Machine Code (2018)](https://www.youtube.com/watch?v=NF6kcNS6U80) - Andreas Fredriksson
 * [Efficiency with Algorithms, Performance with Data Structures (2014, cppcon)](https://www.youtube.com/watch?v=fHNmRkzxHWs&list=WL&index=1) - Chandler Carruth
+* [Memory Optimization (2003)](https://www.youtube.com/watch?v=t15T_BkOtm0) - Christer Ericson
 * [Native Code Performance and Memory: The Elephant in the CPU (2013)](https://channel9.msdn.com/Events/Build/2013/4-329) - Eric Brumer
 * [Object-Oriented Programming is Bad (2016)](https://www.youtube.com/watch?v=QM1iUe6IofM) - Brian Will
 * [Performance Optimization, SIMD and Cache (2015)](https://www.youtube.com/watch?v=Nsf2_Au6KxU) - Sergiy Migdalskiy
