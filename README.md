@@ -19,7 +19,7 @@ Feel free to contribute by sending PR!
 * [A Crash Course in Modern Hardware](https://www.infoq.com/presentations/click-crash-course-modern-hardware/) -  Dr. Cliff Click
 * [Practical Examples In Data Oriented Design (2013)](https://docs.google.com/presentation/d/17Bzle0w6jz-1ndabrvC5MXUIQ5jme0M8xBF71oz-0Js/present?slide=id.i0) - Niklas Frykholm
 * [Three Big Lies (2008)](http://cellperformance.beyond3d.com/articles/2008/03/three-big-lies.html) - Mike Acton
-* [Typical C++ Bullshit (2008)](http://macton.smugmug.com/gallery/8936708_T6zQX#!i=593426709&k=ZX4pZ) - Mike Acton
+* [Typical C++ Bullshit (2008)](https://macton.smugmug.com/Other/2008-07-15-by-Eye-Fi/n-xmKDH) - Mike Acton
 * [Data-Oriented Design and C++ (2014)](https://www.slideshare.net/cellperformance/data-oriented-design-and-c) - Mike Acton
 * [Entity Component Systems &
 Data Oriented Design (2018)](http://aras-p.info/texts/files/2018Academy%20-%20ECS-DoD.pdf) - Aras Pranckevičius
