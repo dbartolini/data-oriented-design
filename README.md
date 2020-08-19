@@ -32,6 +32,7 @@ Data Oriented Design (2018)](http://aras-p.info/texts/files/2018Academy%20-%20EC
 * [Adventures in data-oriented design – Part 3b: Internal References (2013)](https://molecularmusings.wordpress.com/2013/05/17/adventures-in-data-oriented-design-part-3b-internal-references/) - Stefan Reinalter
 * [Adventures in data-oriented design – Part 3c: External References (2013)](https://molecularmusings.wordpress.com/2013/07/24/adventures-in-data-oriented-design-part-3c-external-references/) - Stefan Reinalter
 * [Adventures in data-oriented design – Part 4: Skinning it to 11 (2013)](https://molecularmusings.wordpress.com/2013/08/22/adventures-in-data-oriented-design-part-4-skinning-it-to-11/) - Stefan Reinalter
+* [An introduction to Data Oriented Design with Rust](https://jamesmcm.github.io/blog/2020/07/25/intro-dod/)
 * [Allocation Adventures 1: The DataComponent (2015)](http://bitsquid.blogspot.it/2015/06/allocation-adventures-1-datacomponent.html) - Niklas Frykholm
 * [Allocation Adventures 2: Arrays of Arrays (2015)](http://bitsquid.blogspot.it/2015/06/allocation-adventures-2-arrays-of-arrays.html) - Niklas Frykholm
 * [An Example in Data-Oriented Design: Sound Parameters (2011)](http://bitsquid.blogspot.it/2011/11/example-in-data-oriented-design-sound.html) - Niklas Frykholm
