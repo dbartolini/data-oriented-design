@@ -91,6 +91,7 @@ Data Oriented Design (2018)](http://aras-p.info/texts/files/2018Academy%20-%20EC
 * [What Is Data Oriented Design (2009)](http://stackoverflow.com/questions/1641580/what-is-data-oriented-design) - stackoverflow.com
 * [Data Oriented Design Book (2018)](http://www.dataorienteddesign.com/dodbook/dodmain.html) - Richard Fabian
 * [Cache-Line Aware Data Structures (2018)](https://accu.org/index.php/journals/2535) - accu.org
+* [Investigating Data-Oriented Design - Master Thesis (2019)](https://github.com/Per-Morten/master_project) - Per-Morten Straume
 
 ## Code Examples
 
