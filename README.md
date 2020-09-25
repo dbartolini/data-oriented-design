@@ -58,6 +58,7 @@ Data Oriented Design (2018)](http://aras-p.info/texts/files/2018Academy%20-%20EC
 * [What is Data-Oriented Game Engine Design? (2014)](http://gamedevelopment.tutsplus.com/articles/what-is-data-oriented-game-engine-design--cms-21052) - David Davidović
 * [Comments on Data Oriented Design – Part I (2015)](https://gautiertalkstechnology.wordpress.com/2015/02/21/comments-on-data-oriented-design-part-i) - Michael Gautier
 * [Comments on Data Oriented Design – Part II (2015)](https://gautiertalkstechnology.wordpress.com/2015/02/22/comments-on-data-oriented-design-part-ii) - Michael Gautier
+* [Data oriented design is not about SoA and ECS (2020)](https://www.polymonster.co.uk/blog/dod-ecs) - Alex Dixon
 
 ## Videos
 
@@ -92,8 +93,7 @@ Data Oriented Design (2018)](http://aras-p.info/texts/files/2018Academy%20-%20EC
 * [Data Oriented Design Book (2018)](http://www.dataorienteddesign.com/dodbook/dodmain.html) - Richard Fabian
 * [Cache-Line Aware Data Structures (2018)](https://accu.org/index.php/journals/2535) - accu.org
 * [Investigating Data-Oriented Design - Master Thesis (2019)](https://github.com/Per-Morten/master_project) - Per-Morten Straume
-* [Data oriented design is not about SoA and ECS (2020)](https://www.polymonster.co.uk/blog/dod-ecs) - Alex Dixon
- 
+
 ## Code Examples
 
 * [bgfx](https://github.com/bkaradzic/bgfx)
