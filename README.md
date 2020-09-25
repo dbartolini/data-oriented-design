@@ -92,7 +92,8 @@ Data Oriented Design (2018)](http://aras-p.info/texts/files/2018Academy%20-%20EC
 * [Data Oriented Design Book (2018)](http://www.dataorienteddesign.com/dodbook/dodmain.html) - Richard Fabian
 * [Cache-Line Aware Data Structures (2018)](https://accu.org/index.php/journals/2535) - accu.org
 * [Investigating Data-Oriented Design - Master Thesis (2019)](https://github.com/Per-Morten/master_project) - Per-Morten Straume
-
+* [Data oriented design is not about SoA and ECS (2020)](https://www.polymonster.co.uk/blog/dod-ecs) - Alex Dixon
+ 
 ## Code Examples
 
 * [bgfx](https://github.com/bkaradzic/bgfx)
