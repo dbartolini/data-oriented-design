@@ -46,8 +46,8 @@ Data Oriented Design (2018)](http://aras-p.info/texts/files/2018Academy%20-%20EC
 * [Data-Oriented Design Now And In The Future (2011)](http://gamesfromwithin.com/data-oriented-design-now-and-in-the-future) - Noel Llopis
 * [Data-Oriented Hash Table (2015)](http://www.reedbeta.com/blog/2015/01/12/data-oriented-hash-table/) - Nathan Reed
 * [Is Data-Oriented Design a Paradigm? (2010)](http://solid-angle.blogspot.it/2010/12/is-data-oriented-design-paradigm.html) - Steve Anichini
-* [Maximizing code performance by thinking data first - Part 1 (2016)](https://fuzzyreflection.com/2016/07/14/maximizing-code-performance-by-thinking-data-first-part-1/) - Nicolas Lopez
-* [Maximizing code performance by thinking data first - Part 2 (2016)](https://fuzzyreflection.com/2016/08/15/maximizing-code-performance-by-thinking-data-first-part-2/) - Nicolas Lopez
+* [Maximizing code performance by thinking data first - Part 1 (2016)](https://nicolaslopezblog.wordpress.com/2016/07/14/maximizing-code-performance-by-thinking-data-first-part-1/) - Nicolas Lopez
+* [Maximizing code performance by thinking data first - Part 2 (2016)](https://nicolaslopezblog.wordpress.com/2016/08/15/maximizing-code-performance-by-thinking-data-first-part-2/) - Nicolas Lopez
 * [Musings on Data-Oriented Design (2010)](http://solid-angle.blogspot.it/2010/02/musings-on-data-oriented-design.html) - Steve Anichini
 * [Niklas Frykholm github blog (2009-2016)](https://github.com/niklasfrykholm/blog)
 * [OOP != classes, but may == DOD (2010)](https://roathe.wordpress.com/2010/03/22/oop-classes-but-may-dod/) - roathe.com
