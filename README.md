@@ -80,6 +80,7 @@ Data Oriented Design (2018)](http://aras-p.info/texts/files/2018Academy%20-%20EC
 * [Unity at GDC - ECS for Small Things (2018)](https://www.youtube.com/watch?v=EWVU6cFdmr0) - Vlad Vukicevic
 * [Building a Data-Oriented Future - Mike Acton (2019)](https://www.youtube.com/watch?v=u8B3j8rqYMw) - Mike Acton
 * [Intrinsic Functions - Vector Processing Extensions](https://youtu.be/x9Scb5Mku1g) - Javidx9
+* [GDC 2015: How to Write Code the Compiler Can Actually Optimize](https://gdcvault.com/play/1021866/Code-Clinic-2015-How-to) - Mike Acton
 
 ## Other
 
