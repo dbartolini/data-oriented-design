@@ -23,6 +23,8 @@ Feel free to contribute by sending PR!
 * [Data-Oriented Design and C++ (2014)](https://www.slideshare.net/cellperformance/data-oriented-design-and-c) - Mike Acton
 * [Entity Component Systems &
 Data Oriented Design (2018)](http://aras-p.info/texts/files/2018Academy%20-%20ECS-DoD.pdf) - Aras Pranckevičius
+* [Pitfalls of Object Oriented Programming - Revisited (2017)](https://docs.google.com/presentation/d/1ST3mZgxmxqlpCFkdDhtgw116MQdCr2Fax2yjd8Az6zM/edit#slide=id.p) - Tony Albrecht
+* [Pitfalls of Object Oriented Programming (2009)](http://www.slideshare.net/EmanWebDev/pitfalls-of-object-oriented-programminggcap09) - Tony Albrecht
 
 ## Blog Posts
 
@@ -51,8 +53,6 @@ Data Oriented Design (2018)](http://aras-p.info/texts/files/2018Academy%20-%20EC
 * [Musings on Data-Oriented Design (2010)](http://solid-angle.blogspot.it/2010/02/musings-on-data-oriented-design.html) - Steve Anichini
 * [Niklas Frykholm github blog (2009-2016)](https://github.com/niklasfrykholm/blog)
 * [OOP != classes, but may == DOD (2010)](https://roathe.wordpress.com/2010/03/22/oop-classes-but-may-dod/) - roathe.com
-* [Pitfalls of Object Oriented Programming - Revisited (2017)](https://docs.google.com/presentation/d/1ST3mZgxmxqlpCFkdDhtgw116MQdCr2Fax2yjd8Az6zM/edit#slide=id.p) - Tony Albrecht
-* [Pitfalls of Object Oriented Programming (2009)](http://www.slideshare.net/EmanWebDev/pitfalls-of-object-oriented-programminggcap09) - Tony Albrecht
 * [The Latency Elephant (2009)](http://seven-degrees-of-freedom.blogspot.it/2009/10/latency-elephant.html) - Tony Albrecht
 * [Visual Scripting the Data-Oriented Way (2010)](http://bitsquid.blogspot.it/2010/09/visual-scripting-data-oriented-way.html) - Niklas Frykholm
 * [What is Data-Oriented Game Engine Design? (2014)](http://gamedevelopment.tutsplus.com/articles/what-is-data-oriented-game-engine-design--cms-21052) - David Davidović
