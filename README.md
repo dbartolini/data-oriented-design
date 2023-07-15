@@ -84,6 +84,7 @@ Data Oriented Design (2018)](http://aras-p.info/texts/files/2018Academy%20-%20EC
 * [A Practical Guide To Applying Data-Oriented Design](https://vimeo.com/649009599) - Andrew Kelley
 * [A Practical Guide To Applying Data-Oriented Design - Q&A](https://vimeo.com/649016743) - Andrew Kelley
 * [Embedded Systems: Marketable Skills & Intro To Data-Oriented Design Western Michigan University IEEE](https://www.youtube.com/watch?v=YlhA2Y-qpUA) - James Novorita
+* [Data-Oriented Design and Modern C++ (CppNow 2023)](https://www.youtube.com/watch?v=GoIOnQEmXbs) - Floris Bob van Elzelingen
 
 ## Other
 
