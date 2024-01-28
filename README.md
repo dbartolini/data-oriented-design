@@ -99,9 +99,11 @@ Data Oriented Design (2018)](http://aras-p.info/texts/files/2018Academy%20-%20EC
 * [Cache-Line Aware Data Structures (2018)](https://accu.org/index.php/journals/2535) - accu.org
 * [Investigating Data-Oriented Design - Master Thesis (2019)](https://github.com/Per-Morten/master_project) - Per-Morten Straume
 * [The Data-Oriented Design Process for Game Development](https://doi.ieeecomputersociety.org/10.1109/MC.2022.3155108) - Jessica D. Bayliss
+* [Handmade Network](https://handmade.network/projects/) - Community projects done in a DOD way
 
 ## Code Examples
 
 * [bgfx](https://github.com/bkaradzic/bgfx)
 * [crown](https://github.com/crownengine/crown)
 * [dear imgui](https://github.com/ocornut/imgui)
+* [Handmade Hero series - coding game from scratch, uncut](https://guide.handmadehero.org/) (source code can be bought for small fee [here](https://handmadehero.org/))
