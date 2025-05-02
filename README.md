@@ -59,6 +59,7 @@ Data Oriented Design (2018)](http://aras-p.info/texts/files/2018Academy%20-%20EC
 * [Comments on Data Oriented Design – Part I (2015)](https://gautiertalkstechnology.wordpress.com/2015/02/21/comments-on-data-oriented-design-part-i) - Michael Gautier
 * [Comments on Data Oriented Design – Part II (2015)](https://gautiertalkstechnology.wordpress.com/2015/02/22/comments-on-data-oriented-design-part-ii) - Michael Gautier
 * [Data oriented design is not about SoA and ECS (2020)](https://www.polymonster.co.uk/blog/dod-ecs) - Alex Dixon
+* [Data Oriented Programming in Java (2025)](https://nejckorasa.github.io/posts/data-oriented-programming-in-java) - Nejc Korasa
 
 ## Videos
 
